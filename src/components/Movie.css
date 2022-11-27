@@ -1,0 +1,28 @@
+div.reviewsText{
+    width: 100%
+}
+div.poster{
+    margin: 10px;
+}
+p.review {
+    white-space:•pre-line;
+}
+
+.bigPicture{
+    float: right;
+}
+
+.star {
+    position: absolute;
+    width: 32.5em;
+    height: 4em;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.starFill {
+    fill: yellow;
+}
+
+.starEmpty {
+    fill: white;
+}
